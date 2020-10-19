@@ -40,7 +40,7 @@ Xray only scans what you explicitly tell it to, so remember that if you add more
     - From the Application module, expand the Artifactory menu and click Artifacts. In the file tree, expand your docker-local repository until you see "manifest.json" and click that file. In the pane that opens up, you will be able to see your vulnerability data. Depending on your screen size, you may need to click a menu arrow to see the Xray option. 
     - Click the name of a vulnerability under the Security tab to get more specific information about a particular problem. A pop-up will display with an Impact Analysis Graph to show you exactly which component of your application has a problem, as well as a description of the CVE and the fix version if one is available.
 
-6. Run a Report
+6. (Optional) Run a Report
     - From the Application module, expand the Security & Compliance menu and click Reports.
     - Create a new report named "sample-report." In the free tier of the JFrog platform, you will only be able to select a report type of Vulnerabilities. Set the scope to Repositories, and select your two Docker repositories.
     - Additional filtering options will become available, like searching for a specific CVE. Filter by a severity of Medium, and click Create Report.
