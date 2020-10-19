@@ -39,13 +39,13 @@ Attendees do not need to be experts in or have experience using any of the techn
 ## Course Outline
 
 
-### [Intro to DevOps](https://github.com/katcosgrove/devops-101-workshop/blob/master/docs/intro.md)
+### [Intro to DevOps](https://github.com/katcosgrove/devops-101-ato/blob/master/docs/intro.md)
 - What is the definition of DevOps?
 - What does DevOps mean for developers?
 - What is all of this jargon?
 
 
-### [Artifactory Module](https://github.com/katcosgrove/devops-101-workshop/blob/master/docs/artifactory.md)
+### [Artifactory Module](https://github.com/katcosgrove/devops-101-ato/blob/master/docs/artifactory.md)
 - What is binary repository manager?
 - What are build artifacts?
 - Why might you need to manage your build artifacts?
@@ -54,7 +54,7 @@ Attendees do not need to be experts in or have experience using any of the techn
     - PyPi
 
 
-### [Xray Module](https://github.com/katcosgrove/devops-101-workshop/blob/master/docs/xray.md)
+### [Xray Module](https://github.com/katcosgrove/devops-101-ato/blob/master/docs/xray.md)
 - Why do devs need to worry about vulnerability detection and license compliance?
 - Security and License policies
 - Scan a Build
@@ -62,7 +62,7 @@ Attendees do not need to be experts in or have experience using any of the techn
 - Reading Results
 
 
-### [Pipelines Module](https://github.com/katcosgrove/devops-101-workshop/blob/master/docs/pipelines.md)
+### [Pipelines Module](https://github.com/katcosgrove/devops-101-ato/blob/master/docs/pipelines.md)
 - What is CI/CD?
 - Pipelines Integrations
 - Writing a “Hello World” pipeline
@@ -70,7 +70,7 @@ Attendees do not need to be experts in or have experience using any of the techn
 
 ### Additional Resources
 
-[Glossary of Terms](https://github.com/katcosgrove/devops-101-workshop/blob/master/docs/glossary.md)
+[Glossary of Terms](https://github.com/katcosgrove/devops-101-ato/blob/master/docs/glossary.md)
 
 [Artifactory Documentation](https://www.jfrog.com/confluence/display/JFROG/Package+Management)
 
